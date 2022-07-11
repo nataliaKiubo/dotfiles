@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = natalia.ramirez@hotmail.com
+	name = Natalia Ramirez
